@@ -9,11 +9,7 @@ class Loginpage extends StatelessWidget {
       body: SafeArea(
         child: Container(
           child: SingleChildScrollView(
-            child: Column(
-              children: [
-                Text("data"),
-              ],
-            ),
+            child: Column(children: [Text("data is been Changed")]),
           ),
         ),
       ),
